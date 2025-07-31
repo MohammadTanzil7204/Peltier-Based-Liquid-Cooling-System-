@@ -43,7 +43,7 @@ To design a *compact, **cost-effective, and **efficient* cooling system using Pe
 
 ## 🖼 Project Images
 
-![Prototype](Images/Setup_Photo.jpg)
+![Prototype](procom.jpg)
 
 ---
 
