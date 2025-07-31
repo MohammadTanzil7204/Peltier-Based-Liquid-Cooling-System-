@@ -68,7 +68,7 @@ To design a *compact, **cost-effective, and **efficient* cooling system using Pe
 ## 📘 Project Report
 
 For detailed technical explanation, refer to:
-📄 [Documents/Report.pdf]code for system.pdf)
+📄 [code for system.pdf)
 
 ---
 
