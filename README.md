@@ -1,9 +1,9 @@
 # 🔷 Peltier-Based Liquid Cooling System
 
-This project is a *smart liquid cooling system* designed using a *Peltier module, **non-conductive coolant, and **ESP8266* to maintain optimal temperatures for servers and high-performance systems.
+This project is a smart liquid cooling system designed using a Peltier module, non-conductive coolant, and ESP8266 to maintain optimal temperatures for servers and high-performance systems.
 
 ## 📌 Objective
-To design a *compact, **cost-effective, and **efficient* cooling system using Peltier technology to replace traditional air-cooling methods in electronics and IT infrastructure.
+To design a compact, cost-effective, and efficient cooling system using Peltier technology to replace traditional air-cooling methods in electronics and IT infrastructure.
 
 ---
 
