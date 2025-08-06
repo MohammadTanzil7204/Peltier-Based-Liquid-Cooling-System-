@@ -88,8 +88,3 @@ For detailed technical explanation, refer to:
 Electronics and Communication Engineering  
 KLS VDIT, Haliyal — 2026 Batch
 
----
-
-## ⭐ GitHub Link (after uploading)
-
-You can use this link in your resume and LinkedIn:
