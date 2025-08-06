@@ -82,8 +82,8 @@ For detailed technical explanation, refer to:
 
 ## 👨‍💻 Developed By
 
-*Mohammad Tanzil Dilawar Mestri*
-*Ahmed Bidiwale*
+*Mohammad Tanzil Dilawar Mestri*,
+*Ahmed Bidiwale*,
 *Amaan Ansari*
 Electronics and Communication Engineering  
 KLS VDIT, Haliyal — 2026 Batch
